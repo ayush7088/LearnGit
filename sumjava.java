@@ -4,7 +4,7 @@ public class sumjava {
         int a = 5;
         int b = 10;
 
-        System.out.println(a+b);
+        System.out.println("The sum of two  numbers is"+a+b);
     }
 
 }
